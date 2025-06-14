@@ -1,4 +1,4 @@
-# Full Stack Open 2024 
+# Full Stack Open 2025 
 
 This repository contains my solutions and exercises for the [Full Stack Open](https://fullstackopen.com/en/#course-contents) course by the University of Helsinki.
 
